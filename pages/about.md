@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me And This Website
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I am a geospatial data scientist/engineer currently working in the Atmospheric Sciences department at the University of Washington. 
+
+The purpose of this website is to highlight a few of my personal projects, current work projects, and "How-To" examples.
