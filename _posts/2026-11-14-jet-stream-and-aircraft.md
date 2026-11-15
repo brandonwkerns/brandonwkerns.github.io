@@ -8,8 +8,6 @@ image: global-aircraft-and-jet-streams-full.png
 ---
 # Global jet stream and aircraft
 
-![Map of global jet stream and aircraft]({{ "/assets/img/global-aircraft-and-jet-streams-full.png" | relative_url }})
-
 
 ## Why should we care?
 
