@@ -31,7 +31,7 @@ Nevertheless, planes leaving the eastern US towards Europe can still take advant
 
 ## Description of the map
 
-- Van der Grintin projection is used. This was programmed into QGIS as a custom CRS.
+- Van der Grintin projection is used. This was programmed into QGIS as a custom CRS. See [here](https://anitagraser.com/2012/03/18/beautiful-global-projections-adding-custom-projections-to-qgis/) for details.
 - Basemap is Google hybrid satellite map.
 - Ocean is too dark and cluttered with detail in the Google map. Therefore, it is overlaid with a global ocean vectory layer and represented with a single lighter color.
 - Aircraft are plotted as a single marker regardless of aircraft type.
